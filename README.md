@@ -18,7 +18,7 @@ in order to learn representations of node.
 paper: https://arxiv.org/abs/1709.05584
 code: https://github.com/williamleif/GraphSAGE
 
-In my opinnion, it is a flexible GCN algorithm. Because it can train a node at a time but GCN have to train the whole graph because of
+In my opinion, it is a flexible GCN algorithm. Because it can train a node at a time but GCN have to train the whole graph because of
 the Graph Laplacian. Also, GrpahSage works well when the dataset is very large. 
 
 # Graph Data
