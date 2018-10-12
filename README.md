@@ -4,7 +4,7 @@
 paper: https://arxiv.org/abs/1609.02907
 code: https://github.com/tkipf/gcn
 
-A node representation learning method based on the structure information (Ajacency matrix) and node features. GCN makes use of the idea of CNN
+A node representation learning method based on the structure information (adjacency matrix) and node features. GCN makes use of the idea of CNN
 and create a weight sharing filter for learning latent features.
 
 ## Node2vec
