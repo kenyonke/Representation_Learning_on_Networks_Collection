@@ -1,6 +1,6 @@
 # Representation_Learning_on_Networks_Collection
 
-# Grpah(Network) Embedding Survey Papers
+## Grpah(Network) Embedding Survey Papers
 
 A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications. Cai  https://arxiv.org/abs/1709.07604
 
