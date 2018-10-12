@@ -1,10 +1,16 @@
 # Representation_Learning_on_Networks_Collection
 
+# Grpah(Network) Embedding Survey Papers
+
+A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications. Cai  https://arxiv.org/abs/1709.07604
+
+Graph Embedding Techniques, Applications, and Performance: A Survey.Goyal  https://arxiv.org/abs/1705.02801
+
 ## Graph Convolutional Network
 paper: https://arxiv.org/abs/1609.02907
 code: https://github.com/tkipf/gcn
 
-A node representation learning method based on the structure information (adjacency matrix) and node features. GCN makes use of the idea of CNN
+A node representation learning method based on the structure information(adjacency matrix) and node features. GCN makes use of the idea of CNN
 and create a weight sharing filter for learning latent features.
 
 ## Node2vec
